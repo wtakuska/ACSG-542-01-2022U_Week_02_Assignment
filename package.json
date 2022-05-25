@@ -1,0 +1,15 @@
+{
+  "name": "week2_wioleta_takuska",
+  "version": "0.0.1",
+  "description": "Week 2 Assignment",
+  "main": "week2.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wioleta Takuska",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.6.0"
+  }
+}
